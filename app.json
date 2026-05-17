@@ -15,10 +15,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.umairdev.spectrumshift"
+      "bundleIdentifier": "com.umairdev.spectrumshiftgame"
     },
     "android": {
-      "package": "com.umairdev.spectrumshift"
+      "package": "com.umairdev.spectrumshiftgame2"
     },
     "web": {
       "bundler": "metro"
